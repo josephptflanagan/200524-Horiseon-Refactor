@@ -10,3 +10,7 @@ I then added alts to the images to allow for page readers to detail their conten
 I then saw that the title for the page was simply "website" so I altered it to "Horiseon Inc."
 
 Lastly I saw that I needed to add a readme detailing the project, and here we are. 
+
+URL: https://josephptflanagan.github.io/200524-Horiseon-Refactor/
+
+SCREENSHOT:finished-screenshot.png
